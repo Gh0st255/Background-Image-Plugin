@@ -1,7 +1,7 @@
 /*
 * @name BackgroundImagePlugin
 * @version 1.0.0
-* @description Plugin to set background image in BetterDiscord
+* @description Better Discord Background image plugin
 * @author Gh0st.exe
 * @source https://github.com/Gh0st255/Background-Image-Plugin.git
 * @website https://github.com/Gh0st255/Background-Image-Plugin.git

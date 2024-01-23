@@ -1,0 +1,15 @@
+{
+    "name": "BackgroundImagePlugin",
+    "version": "1.0.0",
+    "description": "Better Discord Background image plugin",
+    "author": "Gh0st.exe",
+    "source": "https://github.com/Gh0st255/Background-Image-Plugin.git",
+    "website": "https://github.com/Gh0st255/Background-Image-Plugin.git",
+    "dependencies": [
+      {
+        "name": "BetterDiscord",
+        "version": "2.0.0"
+      }
+    ]
+  }
+  
