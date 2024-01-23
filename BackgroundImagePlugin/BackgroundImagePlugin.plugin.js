@@ -1,13 +1,12 @@
-/*
-* @name BackgroundImagePlugin
-* @version 1.0.0
-* @description Better Discord Background image plugin
-* @author Gh0st.exe
-* @source https://github.com/Gh0st255/Background-Image-Plugin.git
-* @website https://github.com/Gh0st255/Background-Image-Plugin.git
-* @dependencies [{"name": "BetterDiscord", "version": "2.0.0"}]
-*/
-
+/**
+ * @name BackgroundImagePlugin
+ * @version 1.0.0
+ * @description Better Discord Background image plugin
+ * @author Gh0st.exe
+ * @source https://github.com/Gh0st255/Background-Image-Plugin
+ * @website https://github.com/Gh0st255/Background-Image-Plugin
+ * @dependencies [{"name": "BetterDiscord", "version": "2.0.0"}]
+ */
 
 const pluginCss = `
     /* Your additional CSS styles for the plugin */
@@ -54,4 +53,3 @@ document.getElementById('fileInput').addEventListener('change', (event) => {
 function setBackgroundImage(imageUrl) {
     document.documentElement.style.setProperty('--background-image', `url(${imageUrl})`);
 }
-
